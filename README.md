@@ -1,4 +1,4 @@
-# Isaiah's ROM Builds
+# ROMs by @isaiahscape
 Some of Isaiah-kun's roms that he build himself.
 
 Check releases if you want.
