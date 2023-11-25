@@ -1,8 +1,5 @@
 # ROMs by @isaiahscape
-Some of Isaiah-kun's roms that he build himself.
+Some of Isaiah's builds for Redmi Note 10 Pro/Pro Max (sweet/sweetin), check releases.
 
-Check releases if you want.
-
-Chat: https://t.me/thescapecommunity
-
-Updates: https://t.me/thescapeofficial
+**Chat:** https://t.me/thescapecommunity
+**Updates:** https://t.me/thescapeofficial
